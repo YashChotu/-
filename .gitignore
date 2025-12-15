@@ -1,6 +1,10 @@
-# Crypto Exchange DApp
-
-node_modules/
+node_modules
 .env
-dist/
-build/
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
