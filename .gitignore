@@ -1,0 +1,6 @@
+# Crypto Exchange DApp
+
+node_modules/
+.env
+dist/
+build/
